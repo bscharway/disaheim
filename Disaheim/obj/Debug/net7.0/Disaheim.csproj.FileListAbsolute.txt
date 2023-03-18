@@ -1,0 +1,15 @@
+/Users/brightsswagness/Projects/disaheim/Disaheim/bin/Debug/net7.0/Disaheim
+/Users/brightsswagness/Projects/disaheim/Disaheim/bin/Debug/net7.0/Disaheim.deps.json
+/Users/brightsswagness/Projects/disaheim/Disaheim/bin/Debug/net7.0/Disaheim.runtimeconfig.json
+/Users/brightsswagness/Projects/disaheim/Disaheim/bin/Debug/net7.0/Disaheim.dll
+/Users/brightsswagness/Projects/disaheim/Disaheim/bin/Debug/net7.0/Disaheim.pdb
+/Users/brightsswagness/Projects/disaheim/Disaheim/obj/Debug/net7.0/Disaheim.csproj.AssemblyReference.cache
+/Users/brightsswagness/Projects/disaheim/Disaheim/obj/Debug/net7.0/Disaheim.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brightsswagness/Projects/disaheim/Disaheim/obj/Debug/net7.0/Disaheim.AssemblyInfoInputs.cache
+/Users/brightsswagness/Projects/disaheim/Disaheim/obj/Debug/net7.0/Disaheim.AssemblyInfo.cs
+/Users/brightsswagness/Projects/disaheim/Disaheim/obj/Debug/net7.0/Disaheim.csproj.CoreCompileInputs.cache
+/Users/brightsswagness/Projects/disaheim/Disaheim/obj/Debug/net7.0/Disaheim.dll
+/Users/brightsswagness/Projects/disaheim/Disaheim/obj/Debug/net7.0/refint/Disaheim.dll
+/Users/brightsswagness/Projects/disaheim/Disaheim/obj/Debug/net7.0/Disaheim.pdb
+/Users/brightsswagness/Projects/disaheim/Disaheim/obj/Debug/net7.0/Disaheim.genruntimeconfig.cache
+/Users/brightsswagness/Projects/disaheim/Disaheim/obj/Debug/net7.0/ref/Disaheim.dll
