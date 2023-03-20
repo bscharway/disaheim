@@ -1,4 +1,50 @@
 ﻿<Properties StartupConfiguration="{43E658DA-E876-4D11-974B-E2D76A017674}|Default">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Disaheim FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Level.cs">
+    <Files>
+      <File FileName="Program.cs" />
+      <File FileName="Book.cs" />
+      <File FileName="Amulet.cs" />
+      <File FileName="Level.cs" Line="12" Column="1" />
+      <File FileName="../../DisaheimTest/UnitTest1.cs" />
+      <File FileName="Utility.cs" />
+      <File FileName="../../DisaheimTest/UnitTest2.cs" />
+      <File FileName="Controller.cs" />
+      <File FileName="../../DisaheimTest/UnitTest3.cs" Line="49" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Disaheim" expanded="True">
+            <Node name="Disaheim" expanded="True">
+              <Node name="Level.cs" selected="True" />
+            </Node>
+            <Node name="DisaheimTest" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Disaheim" expanded="True">
+            <Node name="DisaheimTest" expanded="True">
+              <Node name="DisaheimTest" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Disaheim PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/brightsswagness/Projects/DisaheimTest/UnitTest3.cs" line="11" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>
