@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Disaheim", "Disaheim.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DisaheimTest", "..\..\DisaheimTest\DisaheimTest.csproj", "{CF319AF2-BD60-4BA9-A9AF-404EEB62A0D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityLib", "..\UtilityLib\UtilityLib.csproj", "{0390BA4E-B29B-4DCF-80A0-5E5F89A1ED4A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{CF319AF2-BD60-4BA9-A9AF-404EEB62A0D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF319AF2-BD60-4BA9-A9AF-404EEB62A0D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF319AF2-BD60-4BA9-A9AF-404EEB62A0D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0390BA4E-B29B-4DCF-80A0-5E5F89A1ED4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0390BA4E-B29B-4DCF-80A0-5E5F89A1ED4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0390BA4E-B29B-4DCF-80A0-5E5F89A1ED4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0390BA4E-B29B-4DCF-80A0-5E5F89A1ED4A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

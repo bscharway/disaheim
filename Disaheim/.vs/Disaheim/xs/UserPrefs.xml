@@ -1,5 +1,4 @@
 ﻿<Properties StartupConfiguration="{43E658DA-E876-4D11-974B-E2D76A017674}|Default">
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="Level.cs">
     <Files>
       <File FileName="Program.cs" />
@@ -39,12 +38,12 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.Disaheim PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/brightsswagness/Projects/DisaheimTest/UnitTest3.cs" line="11" column="1" />
-    </BreakpointStore>
+    <Breakpoint file="/Users/brightsswagness/Projects/DisaheimTest/UnitTest3.cs" line="11" column="1" />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Disaheim PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.UtilityLib FirstBuild="True" />
 </Properties>
