@@ -30,5 +30,6 @@ namespace Disaheim
         {
             return $"ItemId: {ItemId}, Title: {Title}, Price: {Price}";
         }
+
     }
 }
