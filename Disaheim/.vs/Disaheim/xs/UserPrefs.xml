@@ -1,49 +1,53 @@
 ﻿<Properties StartupConfiguration="{43E658DA-E876-4D11-974B-E2D76A017674}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Level.cs">
+  <MonoDevelop.Ide.ItemProperties.DisaheimTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/brightsswagness/Projects/DisaheimTest/UnitTest5.cs" line="250" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Disaheim PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
-      <File FileName="Program.cs" />
+      <File FileName="Program.cs" Line="1" Column="1" />
       <File FileName="Book.cs" />
       <File FileName="Amulet.cs" />
-      <File FileName="Level.cs" Line="12" Column="1" />
+      <File FileName="Level.cs" />
       <File FileName="../../DisaheimTest/UnitTest1.cs" />
-      <File FileName="Utility.cs" />
       <File FileName="../../DisaheimTest/UnitTest2.cs" />
-      <File FileName="Controller.cs" />
-      <File FileName="../../DisaheimTest/UnitTest3.cs" Line="49" Column="1" />
+      <File FileName="Controller.cs" Line="1" Column="1" />
+      <File FileName="../../DisaheimTest/UnitTest3.cs" />
+      <File FileName="Merchandise.cs" />
+      <File FileName="Course.cs" />
+      <File FileName="../UtilityLib/Utility2.cs" />
+      <File FileName="BookRepository.cs" Line="1" Column="1" />
+      <File FileName="AmuletRepository.cs" Line="1" Column="1" />
+      <File FileName="CourseRepository.cs" />
+      <File FileName="Utility.cs" />
+      <File FileName="../../DisaheimTest/UnitTest4.cs" />
+      <File FileName="MerchandiseRepository.cs" />
+      <File FileName="IValuable.cs" />
+      <File FileName="ValuableRepository.cs" Line="92" Column="20" />
+      <File FileName="../../DisaheimTest/UnitTest5.cs" />
+      <File FileName="IPersistable.cs" />
+      <File FileName="../../DisaheimTest/UnitTest6.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Disaheim" expanded="True">
             <Node name="Disaheim" expanded="True">
-              <Node name="Level.cs" selected="True" />
+              <Node name="Program.cs" selected="True" />
             </Node>
             <Node name="DisaheimTest" expanded="True">
               <Node name="Dependencies" expanded="True" />
             </Node>
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
-      <Pad Id="MonoDevelop.UnitTesting.TestPad">
-        <State name="__root__">
-          <Node name="Disaheim" expanded="True">
-            <Node name="DisaheimTest" expanded="True">
-              <Node name="DisaheimTest" expanded="True" />
-            </Node>
+            <Node name="UtilityLib" expanded="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <Breakpoint file="/Users/brightsswagness/Projects/DisaheimTest/UnitTest3.cs" line="11" column="1" />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Disaheim PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.ItemProperties.UtilityLib FirstBuild="True" />
+  <MultiItemStartupConfigurations />
 </Properties>

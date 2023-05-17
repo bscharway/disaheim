@@ -26,6 +26,11 @@ namespace Disaheim
             this.Title = "";
             this.Price = 00.00;
         }*/
+
+        public double GetValue()
+        {
+            return Price;
+        }
         public override string ToString()
         {
             return $"ItemId: {ItemId}, Title: {Title}, Price: {Price}";
